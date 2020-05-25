@@ -1,6 +1,10 @@
 # DataGen
 
-DataGen is a random data generator meant to be useful to populate a development database. This need is driving by the need to have working data for developers which doesn't come from a production db.
+DataGen is a random data generator meant to be useful to populate a development database. This is driven by the need to have working data for developers which doesn't come from a production db.
+
+# Deployment
+
+This is a nodejs app which is intended to be used via a browser.
 
 ## Config
 
